@@ -1,6 +1,5 @@
 # **GoogleChat**
 
-[![CodeFactor](https://www.codefactor.io/repository/github/ifeanyi55/googlechat/badge)](https://www.codefactor.io/repository/github/ifeanyi55/googlechat)
 [![Stars](https://img.shields.io/github/stars/Ifeanyi55/GoogleChat?style=social)](https://github.com/Ifeanyi55/GoogleChat/stargazers)
 [![Forks](https://img.shields.io/github/forks/Ifeanyi55/GoogleChat?style=social)](https://github.com/Ifeanyi55/GoogleChat/network/members)
 [![Issues](https://img.shields.io/github/issues/Ifeanyi55/GoogleChat)](https://github.com/Ifeanyi55/GoogleChat/issues)
